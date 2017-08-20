@@ -1,0 +1,5 @@
+{
+  "presets": [
+    "babel-preset-env", "react" // the react-preset handles the transpilation of react jsx to raw js     
+  ]
+}
